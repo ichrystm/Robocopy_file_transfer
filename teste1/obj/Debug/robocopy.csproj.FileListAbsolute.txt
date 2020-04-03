@@ -1,0 +1,9 @@
+C:\Users\Chrys\Documents\Projetos_e_codigos\Robocopy_transfer\robocopytransfer\teste1\bin\Debug\CRFT.exe.config
+C:\Users\Chrys\Documents\Projetos_e_codigos\Robocopy_transfer\robocopytransfer\teste1\bin\Debug\CRFT.exe
+C:\Users\Chrys\Documents\Projetos_e_codigos\Robocopy_transfer\robocopytransfer\teste1\bin\Debug\CRFT.pdb
+C:\Users\Chrys\Documents\Projetos_e_codigos\Robocopy_transfer\robocopytransfer\teste1\obj\Debug\robocopy.csprojAssemblyReference.cache
+C:\Users\Chrys\Documents\Projetos_e_codigos\Robocopy_transfer\robocopytransfer\teste1\obj\Debug\teste1.File_Destino.resources
+C:\Users\Chrys\Documents\Projetos_e_codigos\Robocopy_transfer\robocopytransfer\teste1\obj\Debug\CRFT.Properties.Resources.resources
+C:\Users\Chrys\Documents\Projetos_e_codigos\Robocopy_transfer\robocopytransfer\teste1\obj\Debug\robocopy.csproj.GenerateResource.cache
+C:\Users\Chrys\Documents\Projetos_e_codigos\Robocopy_transfer\robocopytransfer\teste1\obj\Debug\CRFT.exe
+C:\Users\Chrys\Documents\Projetos_e_codigos\Robocopy_transfer\robocopytransfer\teste1\obj\Debug\CRFT.pdb

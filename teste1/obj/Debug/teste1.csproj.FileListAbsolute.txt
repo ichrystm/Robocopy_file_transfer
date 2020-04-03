@@ -1,0 +1,9 @@
+C:\Users\choliv\source\repos\teste1\teste1\obj\Debug\teste1.csprojAssemblyReference.cache
+C:\Users\choliv\source\repos\teste1\teste1\obj\Debug\teste1.csproj.GenerateResource.cache
+C:\Users\choliv\source\repos\teste1\teste1\obj\Debug\teste1.File_Destino.resources
+C:\Users\choliv\source\repos\teste1\teste1\bin\Debug\CRFT.exe.config
+C:\Users\choliv\source\repos\teste1\teste1\bin\Debug\CRFT.exe
+C:\Users\choliv\source\repos\teste1\teste1\bin\Debug\CRFT.pdb
+C:\Users\choliv\source\repos\teste1\teste1\obj\Debug\CRFT.Properties.Resources.resources
+C:\Users\choliv\source\repos\teste1\teste1\obj\Debug\CRFT.exe
+C:\Users\choliv\source\repos\teste1\teste1\obj\Debug\CRFT.pdb

@@ -1,0 +1,28 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy para Windows                              
+-------------------------------------------------------------------------------
+
+  Iniciado: quarta-feira, 5 de fevereiro de 2020 14:54:09
+   Origem : C:\Users\choliv\Music\
+     Dest : C:\Users\choliv\Desktop\destino\e\
+
+    Arquivos: *.*
+	    
+  Op‡oes: *.* /V /BYTES /DCOPY:DA /COPY:DAT /Z /ETA /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	C:\Users\choliv\Music\
+	  *Arquivo EXTRA		       0	teste.txt
+	  Novo Arquivo		     504	desktop.ini  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total   Copiada  IgnoradaIncompatibilidade     FALHA    Extras
+Diret¢rios:         1         0         1         0         0         0
+ Arquivos:         1         1         0         0         0         1
+    Bytes:       504       504         0         0         0         0
+N.§ de Vezes:   0:00:00   0:00:00                       0:00:00   0:00:00
+   Finalizado em: quarta-feira, 5 de fevereiro de 2020 14:54:09
+
